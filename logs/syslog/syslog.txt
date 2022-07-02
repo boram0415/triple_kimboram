@@ -1,0 +1,94 @@
+[INFO ] 2022-07-03 00:02:27.222 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:02:27.228 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:02:27.886 :        c.e.t.TripleApplication - Started TripleApplication in 0.715 seconds (JVM running for 427.486)
+[INFO ] 2022-07-03 00:02:30.015 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:02:30.019 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:02:30.396 :        c.e.t.TripleApplication - Started TripleApplication in 0.431 seconds (JVM running for 429.995)
+[INFO ] 2022-07-03 00:02:58.183 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:02:58.183 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:02:58.574 :        c.e.t.TripleApplication - Started TripleApplication in 0.43 seconds (JVM running for 458.173)
+[INFO ] 2022-07-03 00:03:57.982 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:03:57.982 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:03:58.496 :        c.e.t.TripleApplication - Started TripleApplication in 0.557 seconds (JVM running for 518.098)
+[INFO ] 2022-07-03 00:04:00.601 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:04:00.601 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:04:01.040 :        c.e.t.TripleApplication - Started TripleApplication in 0.476 seconds (JVM running for 520.642)
+[INFO ] 2022-07-03 00:05:46.843 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:05:46.843 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:05:47.353 :        c.e.t.TripleApplication - Started TripleApplication in 0.616 seconds (JVM running for 626.957)
+[INFO ] 2022-07-03 00:05:49.330 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:05:49.330 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:05:49.785 :        c.e.t.TripleApplication - Started TripleApplication in 0.488 seconds (JVM running for 629.39)
+[INFO ] 2022-07-03 00:07:26.336 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:07:26.337 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:07:26.960 :        c.e.t.TripleApplication - Started TripleApplication in 0.657 seconds (JVM running for 726.567)
+[INFO ] 2022-07-03 00:07:29.097 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:07:29.097 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:07:29.527 :        c.e.t.TripleApplication - Started TripleApplication in 0.473 seconds (JVM running for 729.134)
+[INFO ] 2022-07-03 00:10:40.893 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:10:40.893 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:10:41.293 :        c.e.t.TripleApplication - Started TripleApplication in 0.448 seconds (JVM running for 920.904)
+[INFO ] 2022-07-03 00:10:43.250 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:10:43.251 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:10:43.679 :        c.e.t.TripleApplication - Started TripleApplication in 0.47 seconds (JVM running for 923.29)
+[INFO ] 2022-07-03 00:10:52.829 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:10:52.829 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:10:53.376 :        c.e.t.TripleApplication - Started TripleApplication in 0.594 seconds (JVM running for 932.988)
+[INFO ] 2022-07-03 00:10:55.261 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:10:55.262 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:10:55.632 :        c.e.t.TripleApplication - Started TripleApplication in 0.399 seconds (JVM running for 935.244)
+[INFO ] 2022-07-03 00:12:24.160 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:12:24.161 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:12:24.635 :        c.e.t.TripleApplication - Started TripleApplication in 0.514 seconds (JVM running for 1024.249)
+[INFO ] 2022-07-03 00:12:26.622 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:12:26.622 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:12:26.983 :        c.e.t.TripleApplication - Started TripleApplication in 0.393 seconds (JVM running for 1026.596)
+[INFO ] 2022-07-03 00:13:08.478 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:13:08.478 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:13:08.923 :        c.e.t.TripleApplication - Started TripleApplication in 0.491 seconds (JVM running for 1068.537)
+[INFO ] 2022-07-03 00:13:10.851 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:13:10.851 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:13:11.197 :        c.e.t.TripleApplication - Started TripleApplication in 0.376 seconds (JVM running for 1070.811)
+[INFO ] 2022-07-03 00:20:34.240 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:20:34.240 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:20:34.695 :        c.e.t.TripleApplication - Started TripleApplication in 0.489 seconds (JVM running for 1514.32)
+[INFO ] 2022-07-03 00:20:36.645 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:20:36.645 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:20:36.992 :        c.e.t.TripleApplication - Started TripleApplication in 0.375 seconds (JVM running for 1516.617)
+[INFO ] 2022-07-03 00:22:36.176 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:22:36.177 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:22:36.911 :        c.e.t.TripleApplication - Started TripleApplication in 0.791 seconds (JVM running for 1636.539)
+[INFO ] 2022-07-03 00:22:38.960 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:22:38.960 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:22:39.413 :        c.e.t.TripleApplication - Started TripleApplication in 0.483 seconds (JVM running for 1639.041)
+[INFO ] 2022-07-03 00:22:51.707 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:22:51.707 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:22:52.089 :        c.e.t.TripleApplication - Started TripleApplication in 0.42 seconds (JVM running for 1651.718)
+[INFO ] 2022-07-03 00:25:39.619 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:25:39.619 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:25:40.088 :        c.e.t.TripleApplication - Started TripleApplication in 0.503 seconds (JVM running for 1819.72)
+[INFO ] 2022-07-03 00:25:42.026 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:25:42.026 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:25:42.390 :        c.e.t.TripleApplication - Started TripleApplication in 0.395 seconds (JVM running for 1822.023)
+[INFO ] 2022-07-03 00:30:21.597 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:30:21.597 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:30:23.621 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:30:23.621 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:30:24.185 :        c.e.t.TripleApplication - Started TripleApplication in 0.633 seconds (JVM running for 2103.823)
+[INFO ] 2022-07-03 00:35:02.721 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:35:02.721 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:35:03.565 :        c.e.t.TripleApplication - Started TripleApplication in 0.884 seconds (JVM running for 2383.21)
+[INFO ] 2022-07-03 00:35:05.578 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:35:05.578 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:35:06.078 :        c.e.t.TripleApplication - Started TripleApplication in 0.53 seconds (JVM running for 2385.724)
+[INFO ] 2022-07-03 00:47:30.739 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:47:30.740 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:47:32.540 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:47:32.540 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:47:32.982 :        c.e.t.TripleApplication - Started TripleApplication in 0.474 seconds (JVM running for 3132.644)
+[INFO ] 2022-07-03 00:48:44.142 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:48:44.142 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:48:44.585 :        c.e.t.TripleApplication - Started TripleApplication in 0.486 seconds (JVM running for 3204.248)
+[INFO ] 2022-07-03 00:48:46.505 :        c.e.t.TripleApplication - Starting TripleApplication using Java 1.8.0_261 on boram with PID 8284 (C:\Users\82108\Desktop\triple\build\classes\java\main started by 82108 in C:\Users\82108\Desktop\triple)
+[INFO ] 2022-07-03 00:48:46.505 :        c.e.t.TripleApplication - The following 1 profile is active: "local"
+[INFO ] 2022-07-03 00:48:46.994 :        c.e.t.TripleApplication - Started TripleApplication in 0.523 seconds (JVM running for 3206.657)

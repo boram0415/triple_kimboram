@@ -1,0 +1,71 @@
+
+spring:
+  profiles:
+    active: local
+
+---
+
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/triple?characterEncoding=UTF-8&serverTimezone=UTC&useSSL=false&allowMultiQueries=true
+    username: root
+    password: 1234
+  thymeleaf:
+    cache: false
+  config:
+    activate:
+      on-profile: local
+
+server:
+  port: 8090
+  error:
+    whitelabel:
+      enabled: false
+  servlet:
+    encoding:
+      charset: UTF-8
+
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  type-aliases-package: com.example.triple.domain
+---
+
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://121.174.99.113:3306/triple?characterEncoding=UTF-8&serverTimezone=UTC&useSSL=false&allowMultiQueries=true
+    username: account
+    password: 1234!!
+  thymeleaf:
+    cache: false
+  config:
+    activate:
+      on-profile: mac
+
+server:
+  port: 8090
+  error:
+    whitelabel:
+      enabled: false
+  servlet:
+    encoding:
+      charset: UTF-8
+
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  type-aliases-package: com.example.triple.domain

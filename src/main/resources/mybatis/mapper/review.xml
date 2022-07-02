@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.triple.mapper.ReviewMapper">
+
+
+    <insert id="writeReview" parameterType="ReviewData">
+        INSERT INTO review (type, action, reviewId, attachedPhotoIds, content, firstVisited, userId, placeId)
+            VALUES (#{type}, #{action}, #{reviewId}, #{imgLength}, #{content}, #{firstVisited}, #{userId}, #{placeId}
+            );
+    </insert>
+
+    <select id="visitedPlace" resultType="int">
+        SELECT COUNT(*)
+            FROM review
+                WHERE placeId = #{placeId};
+    </select>
+
+    <insert id="earnPointInsert" parameterType="ReviewPoint">
+        INSERT INTO review_point (userId, reviewId, summary)
+            VALUES (#{userId}, #{reviewId}, #{summary});
+    </insert>
+
+    <select id="selectReview" parameterType="ReviewData" resultType="int">
+        SELECT count(*)
+            FROM review
+                WHERE placeId = #{placeId}
+                    AND userId = #{userId}
+    </select>
+
+    <insert id="photoInsert" parameterType="java.util.List">
+        insert into review_img (reviewId,userId,attachedPhotoIds)
+            VALUES
+            <foreach collection="list" item="item" separator="," >
+                 ('${item.reviewId}','${item.userId}', '${item.attachedPhotoIds}' )
+            </foreach>
+    </insert>
+
+    <select id="validCheck" parameterType="String" resultType="ReviewData">
+        select A.*,A.attachedPhotoIds imgLength from review as A
+                 where reviewId= #{reviewId}
+    </select>
+
+    <update id="modifyReviewContent" parameterType="ReviewData">
+        update review
+            set action= #{action} , content =#{content} , attachedPhotoIds= #{imgLength}
+                where reviewId= #{reviewId}
+    </update>
+
+    <delete id="deleteImg" parameterType="String">
+        delete
+        from review_img
+        where reviewId = #{reviewId};
+
+    </delete>
+
+    <select id="selectImgLen" resultType="int">
+        select attachedPhotoIds
+        from review
+        where reviewId = #{reviewId};
+    </select>
+
+    <select id="userPointSelect" parameterType="String" resultType="int">
+        select point
+        from user
+        where userId = #{userid};
+
+    </select>
+
+    <update id="userPointUpdate" parameterType="ReviewPoint">
+        update user set point = #{point} where userId =#{userId}
+    </update>
+    
+    <select id="alreadyPointDeduct" parameterType="String" resultType="int">
+        SELECT status
+            FROM review
+                WHERE reviewId =#{reviewId};
+    </select>
+
+    <update id="statusUpdate" parameterType="ReviewData">
+        UPDATE review SET STATUS = ${status} WHERE reviewId=# {reviewId}
+    </update>
+
+    <update id="deleteReviewUpdate" parameterType="String">
+        UPDATE review SET STATUS = 1 WHERE reviewId =#{reviewId}
+    </update>
+
+    <insert id="deletePointUpdate" parameterType="ReviewPoint">
+        INSERT INTO review_point (userId, reviewId, summary ,point)
+        VALUES (#{userId}, #{reviewId}, #{summary} ,#{dummyPoint});
+    </insert>
+
+    <select id="userPointCheck" parameterType="String" resultType="String">
+        select point from user where userId =#{userId}
+    </select>
+
+
+</mapper>
