@@ -22,7 +22,6 @@ public class ReviewServiceTest {
         data.setType("REVIEW");
         data.setAction("ADD");
         data.setReviewId("B-0627");
-//        data.setAttachedPhotoIds(3);
         data.setUserId("boram1");
         data.setPlaceId("busan");
         data.setContent("환상적입니다 !");
@@ -32,9 +31,6 @@ public class ReviewServiceTest {
         } catch (DuplicateKeyException sql) {
             System.out.println("중복키 ERROR !! ");
         }
-
-//        Spliterator<String> img2  = Arrays.stream(data.getAttachedPhotoIds()).spliterator();
-        System.out.println("실행됨 ? " ) ;
 
     }
 

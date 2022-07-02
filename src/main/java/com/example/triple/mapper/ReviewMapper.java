@@ -14,8 +14,6 @@ import java.util.Optional;
 @Mapper
 public interface ReviewMapper {
 
-    // 포인트 조회
-    Optional<ReviewData> pointCheck();
     // 리뷰 작성
     int writeReview(ReviewData data);
     // 첫 방문 장소 확인
@@ -37,8 +35,6 @@ public interface ReviewMapper {
     int userPointSelect(String userId);
 
     int userPointUpdate(ReviewPoint pointDTO);
-
-//    void deleteReview(String reviewId);
 
     void deleteReviewUpdate(String reviewId);
 
